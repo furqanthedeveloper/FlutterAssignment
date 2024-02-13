@@ -3,7 +3,6 @@ void main(){
     "Ammerica",
     "London",
     "Paris",
-    
   ];
   var result = cityReversed.reversed.toSet().toList();
   print(result);

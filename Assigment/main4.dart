@@ -5,7 +5,6 @@ void main() {
   numbers.sort();
   num_small = numbers.first;
   num_large = numbers.last;
-  
   print("Smallest number is ${num_small}");
   print("Largest number is ${num_large}");
 }
